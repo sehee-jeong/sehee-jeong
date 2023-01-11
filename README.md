@@ -22,13 +22,16 @@
 `2023.01` ProDS ‘Associate DS’ (예정)
 
 `2022.10` TOEIC SPEAKING IH
+
 <br>
+
 
 ### ✍🏻Used Tool & Skill
 
 `Tensorflow` `Python`  `Git`
 
 `Excel` `Google Analytics` `Figma`
+
 <br>
 
 
@@ -40,6 +43,7 @@
 - `2018.02` 시흥매화고등학교 졸업
     
     경기도 과학중점학교 과학중점반 졸업
+    
 <br>
 
 
@@ -58,6 +62,7 @@
 - **타임라인-Based 퀴즈 생성 치매 예방 어플리케이션 특허 출원**
     
     위치, 시간, 사람, 녹음을 기반으로 하루를 되돌아보고 퀴즈를 통해 있었던 일을 기억하고 직접 문제를 풀어봄으로써 치매를 예방하고자 함
+    
 <br>    
 
 
@@ -65,12 +70,14 @@
 
 [활동 정리](https://www.notion.so/970a558a804f4f24b3f9cfd608c15415)
 
+
 <br>
 
 ## ✏️ Certificate
 
 
 [Certificate List](https://www.notion.so/5404bab8c90546e18c7eecc6e905ad48)
+
 <br>
 
 
@@ -104,7 +111,6 @@
 *-한양대학교 정보시스템학과 4학년 과대표를 맡았습니다.*
 
 
-Copyright Ⓒ 2023. Sehee-Jeong, All right reserved. (update : 2023. 01.)
 
 ![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://shore-cartwheel-b2a.notion.site/ver-2-64e7cfb5306b4e27be6047219d148f0c](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://shore-cartwheel-b2a.notion.site/ver-2-64e7cfb5306b4e27be6047219d148f0c)
 
