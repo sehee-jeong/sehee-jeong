@@ -1,5 +1,3 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1133d25-90d7-4c72-81ee-c8894b9db091/Untitled.png)
-
 ### **정**해진 틀을 넘어
 
 ### **세**상을 바라보는
@@ -92,7 +90,7 @@
 
 [활동 정리](https://www.notion.so/970a558a804f4f24b3f9cfd608c15415)
 
-## ✏️ Certificate (Detail 한 날짜 수정)
+## ✏️ Certificate
 
 개발자가 되기 위해 이런 준비를 했어요.
 
