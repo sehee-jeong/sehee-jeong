@@ -19,7 +19,7 @@
 
 `2021.01` GAIQ(Google Analytics)
 
-`2023.01` ProDS ‘Associate DS’ (예정)
+`2023.01` ProDS ‘Associate DS’
 
 `2022.10` TOEIC SPEAKING IH
 
