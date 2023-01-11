@@ -11,7 +11,6 @@
     - ESG News Topic별 ESG Score와 기업의 재무성과에 미치는 영향을 알아보는 연구(제 2 저자)
         - SCI 논문 등재
         - 기업 경영에 마케팅 제언
-        
 <br>
 
 ### 📎Certificate
