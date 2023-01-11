@@ -23,11 +23,13 @@
 
 `2022.10` TOEIC SPEAKING IH
 
+
 ### ✍🏻Used Tool & Skill
 
 `Tensorflow` `Python`  `Git`
 
 `Excel` `Google Analytics` `Figma`
+
 
 ### 🎓Education
 
@@ -61,10 +63,12 @@
 
 [활동 정리](https://www.notion.so/970a558a804f4f24b3f9cfd608c15415)
 
+
 ## ✏️ Certificate
 
 
 [Certificate List](https://www.notion.so/5404bab8c90546e18c7eecc6e905ad48)
+
 
 ## 👩‍💻 How I work
 
@@ -73,6 +77,7 @@
 - 갑작스러운 변동 사항이 생겨도 유연하고 유동적으로 대처합니다.
 - 업무 데드라인은 반드시 지키려고 노력합니다.
 - 팀원과 업무를 투명하게 공유하고 팀의 문제는 함께 해결합니다.
+
 
 ## 🤍 Favorites
 
@@ -83,6 +88,7 @@
 -*출원한 특허를 이용하여 개발도상국 지역에 아이들에게 UNICEF를 통해 목발을 기부하였습니다.*
 
 *-약 1년 간 서울특별시 초등학교에 재생되는 동화를 나레이션하여 재능기부하였습니다.*
+
 
 🖥️ **팀장**
 
