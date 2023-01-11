@@ -22,13 +22,14 @@
 `2023.01` ProDS ‘Associate DS’ (예정)
 
 `2022.10` TOEIC SPEAKING IH
-
+<br>
 
 ### ✍🏻Used Tool & Skill
 
 `Tensorflow` `Python`  `Git`
 
 `Excel` `Google Analytics` `Figma`
+<br>
 
 
 ### 🎓Education
@@ -39,7 +40,8 @@
 - `2018.02` 시흥매화고등학교 졸업
     
     경기도 과학중점학교 과학중점반 졸업
-    
+<br>
+
 
 ### 🏅Awards & Patents
 
@@ -56,18 +58,20 @@
 - **타임라인-Based 퀴즈 생성 치매 예방 어플리케이션 특허 출원**
     
     위치, 시간, 사람, 녹음을 기반으로 하루를 되돌아보고 퀴즈를 통해 있었던 일을 기억하고 직접 문제를 풀어봄으로써 치매를 예방하고자 함
-    
+<br>    
 
 
 ## 📁 Career Portfolio
 
 [활동 정리](https://www.notion.so/970a558a804f4f24b3f9cfd608c15415)
 
+<br>
 
 ## ✏️ Certificate
 
 
 [Certificate List](https://www.notion.so/5404bab8c90546e18c7eecc6e905ad48)
+<br>
 
 
 ## 👩‍💻 How I work
@@ -78,6 +82,7 @@
 - 업무 데드라인은 반드시 지키려고 노력합니다.
 - 팀원과 업무를 투명하게 공유하고 팀의 문제는 함께 해결합니다.
 
+<br>
 
 ## 🤍 Favorites
 
@@ -89,6 +94,7 @@
 
 *-약 1년 간 서울특별시 초등학교에 재생되는 동화를 나레이션하여 재능기부하였습니다.*
 
+<br>
 
 🖥️ **팀장**
 
