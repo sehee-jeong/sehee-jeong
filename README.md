@@ -13,7 +13,7 @@
         
         - 기업 경영에 마케팅 제언
         
-- `2023.03 ~ ` LG전자 H&A사업본부 A.I Researcher
+- `2023.03 ~`  LG전자 H&A사업본부 A.I Researcher
 
 
 <br>
