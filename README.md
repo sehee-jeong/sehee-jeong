@@ -13,7 +13,7 @@
         
         - 기업 경영에 마케팅 제언
         
-- `2023.03 ~`  LG전자 H&A사업본부 인공지능기술개발Task AI Researcher
+- `2023.03 ~`  LG전자 H&A사업본부 H&A인공지능가전PMO 인공지능기술개발Task AI Researcher
 
 
 <br>
