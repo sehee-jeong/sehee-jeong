@@ -74,23 +74,6 @@
     
 - **알츠하이머 예방 시스템{Alzheimer's Prevention System} 특허 출원**
     - 위치, 시간, 사람, 녹음을 기반으로 하루를 되돌아보고 퀴즈를 통해 있었던 일을 기억하고 직접 문제를 풀어봄으로써 치매를 예방하고자 함
-    
-<br>    
-
-
-## 📁 Career Portfolio
-
-[활동 정리](https://www.notion.so/970a558a804f4f24b3f9cfd608c15415)
-
-
-<br>
-
-## ✏️ Certificate
-
-
-[Certificate List](https://www.notion.so/5404bab8c90546e18c7eecc6e905ad48)
-
-<br>
 
 
 ## 👩‍💻 How I work
