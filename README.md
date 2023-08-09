@@ -68,6 +68,10 @@
 - **한양대학교 IC-PBL 글로벌 프런티어 최우수상 (1위)**
     - 한국형 MaaS 도입 제언
         - Role : AI, Data Analyst
+
+- **2023 창의융합 캡스톤 디자인 경진대회 우수상 (공학교육혁신센터장상)**
+    - 빅데이터 기반 커넥티드 카 시스템 구축 (Used Tool : Kafka, Storm&Esper, HBase, Redis, Hive&Spark, Oozie, Sqoop, Impala, Zeppelin, Mahout, R, Tensorflow, Flask)
+        - Role : ETL, Data engineer
         
 - **환경 친화적 목발{Eco-friendly crutches} 특허 출원**
     - 내전중인 개발도상국 아이들을 위한 적정기술 목발로써, 해당 지역에 있는 물건을 재활용하여 목발을 사용할 수 있도록 개발하였음
