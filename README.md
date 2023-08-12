@@ -33,9 +33,9 @@
 
 ### ✍🏻Used Tool & Skill
 
-`Tensorflow` `Python`  `Git`  `SQL`  `SPSS`
+`Tensorflow` `Python`  `Git`  `SQL`  `SPSS`  `Kafka` 
 
-`Excel` `Google Analytics` `Figma`  `PM`
+`Haddop`  `Spark`  `Google Analytics` `Figma`  `K8s`  `Jenkins` 
 
 <br>
 
