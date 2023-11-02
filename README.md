@@ -7,13 +7,13 @@
     - Bandgap과 물질명을 함께 search 할 수 있는 검색 DB 제작
     - XRD(X-ray diffraction) 시뮬레이션 패턴을 생성해 자동으로 분류하는 모델 개발
 
-- `2022.01 ~ 2023.10` 한양대학교 경영대학 비즈니스 인포매틱스 학과 학부연구생 <br>
+- `2022.01 ~ 2023.11` 한양대학교 경영대학 비즈니스 인포매틱스 학과 학부연구생 <br>
     - ESG News Topic별 ESG Score와 기업의 재무성과에 미치는 영향을 알아보는 연구(제 1 저자)
         - SCI 논문 등재
         
         - 기업 경영에 마케팅 제언
         
-- `2023.03 ~`  LG전자 H&A사업본부 H&A인공지능가전PMO 인공지능기술개발Task AI Research Engineer
+- `2023.03 ~ 2023.06`  LG전자 H&A사업본부 H&A인공지능가전PMO 인공지능기술개발Task AI Research Engineer
 
 
 <br>
